@@ -34,7 +34,8 @@ while True:
 ## OUPUT:
 ### Client:
 <img width="439" alt="324196662-bc5da1e0-aaeb-4ebc-9517-a1c5c741e68e" src="https://github.com/kanishka2305/3b_CHAT_USING_TCP_SOCKETS/assets/113497357/4f277f1f-3c23-40cb-87b7-e4a4a9897532">
-### Server
+
+### Server:
 <img width="438" alt="324196686-9a4ac5ed-2f70-4a01-88c2-0dcfd9d3736e" src="https://github.com/kanishka2305/3b_CHAT_USING_TCP_SOCKETS/assets/113497357/4b324aac-9d99-4526-a07b-acef0fa1e857">
 
 ## RESULT
